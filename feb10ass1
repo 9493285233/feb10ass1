@@ -1,0 +1,12 @@
+
+n=int(input())
+if n>0:
+ print("positive")
+else:
+ print("negative")    
+ 
+ output:20
+positive
+
+-15
+negative
